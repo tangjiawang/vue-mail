@@ -1,6 +1,6 @@
-# imoocmall
+# tangjiawang Mall
 
-> Imooc Mall 
+> tangjiawang Mall
 
 ## Build Setup
 

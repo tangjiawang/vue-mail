@@ -1,0 +1,15 @@
+#div_msg{
+    color: gray;
+    font-size: small;
+    max-height: 300px;
+    overflow-y: auto;
+}
+
+.btn{
+    padding: 7px 25px;
+}
+
+.error-info{
+    color: orange;
+    padding-left: 20px;
+}
